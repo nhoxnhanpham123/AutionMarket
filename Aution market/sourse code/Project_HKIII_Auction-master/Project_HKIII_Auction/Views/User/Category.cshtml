@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewBag.Title = "Category";
+    Layout = "~/Views/Shared/User_Layout.cshtml";
+}
+
+@{
+    var result = JsonConvert.DeserializeObject<dynamic>((string)Model);
+}
+@using Newtonsoft.Json;
+@using System.Configuration;
+@using System.Data.SqlClient;
+<script>
+
+        function startTick(id, second, minute, hour, day) {
+            var strTime = day + " Days " + hour + " : " + minute + " : " + second;
+            document.getElementById('time-' + id).innerText = strTime;
+            var _tick = setInterval(function () {
+                second = second - 1;
+
+                var strTime = day + " Days " + hour + " : " + minute + " : " + second;
+                document.getElementById('time-' + id).innerText = strTime;
+
+                if (second == 0) {
+                    second = 60;
+                    minute = minute - 1;
+                }
+                if (minute == 0) {
+                    minute = 59;
+                    hour = hour - 1;
+                }
+                if (hour == 0) {
+                    if (day > 0) {
+                        hour = 23;
+                        day = day - 1;
+                    }
+                }
+            }, 1000);
+        }
+</script>
+<div class="container">
+    <div class="row">
+        @foreach (var i in result)
+        {
+            DateTime date1 = DateTime.Now;
+            DateTime date2 = i.DateEnd;
+            var t = date2 - date1;
+            if (t.Seconds < 0)
+            {
+                string sCon = ConfigurationManager.ConnectionStrings["hihi"].ConnectionString;
+                SqlConnection conn = new SqlConnection(sCon);
+                string query = "Update Products Set Status = 'Over Time' Where PId = " + i.PId;
+                conn.Open();
+                SqlCommand command = new SqlCommand(query, conn);
+                command.ExecuteNonQuery();
+                conn.Close();
+            }
+            <div class="col-md-6 col-lg-3 ftco-animate">
+                <div class="product">
+                    <a href="/User/GetProduct?PId=@i.PId" class="img-prod">
+                        <img class="img-fluid" src="@i.Image" alt="Colorlib Template">
+                        <span class="status">@i.Status</span>
+                        <div class="overlay"></div>
+                    </a>
+                    <div class="text py-3 pb-4 px-3 text-center">
+                        <h3><a href="#">@i.PName</a></h3>
+                        <h3>
+                            <p>Seller: @i.UName</p>
+                            @{
+                                if (t.Seconds < 0)
+                                {
+                                    var strTime = "0 Days 00:00:00";
+                                    @strTime
+                                }
+                                else
+                                {
+                                    <span id="time-@i.PId">
+                                        <script>
+                                                    startTick(@i.PId, @t.Seconds, @t.Minutes, @t.Hours, @t.Days);
+                                        </script>
+                                    </span>
+                                }
+                            }
+                        </h3>
+                        <div class="d-flex">
+                            <div class="pricing">
+                                <p class="price"><span class="mr-2 price-dc">$ @i.MinimumPrice</span><span class="price-sale">$ @i.Incremenent</span></p>
+
+                            </div>
+                        </div>
+                        <div class="bottom-area d-flex px-3">
+                            <div class="m-auto d-flex">
+                                <a href="/User/GetProduct?PId=@i.PId" class="add-to-cart d-flex justify-content-center align-items-center text-center">
+                                    <span><i class="ion-ios-menu"></i></span>
+                                </a>
+                                <a href="/User/Auction?PId=@i.PId" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                    <span><i class="ion-ios-cart"></i></span>
+                                </a>
+                                <a href="#" class="heart d-flex justify-content-center align-items-center ">
+                                    <span><i class="ion-ios-heart"></i></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+

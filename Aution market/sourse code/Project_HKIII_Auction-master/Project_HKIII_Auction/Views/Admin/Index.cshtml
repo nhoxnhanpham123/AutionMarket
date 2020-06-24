@@ -1,0 +1,137 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+@using Newtonsoft.Json;
+@using System.Data.SqlClient;
+@using System.Configuration;
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+    function Note() {
+        swal("Good job!", "You clicked the button!", "success");
+        return true;
+    }
+</script>
+@{ 
+    var result = JsonConvert.DeserializeObject<dynamic>((string)Model);
+}
+    <div class="row">
+        <div class="col-md-4 stretch-card grid-margin">
+            <div class="card bg-gradient-danger card-img-holder text-white">
+                <div class="card-body">
+                    <img src="~/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3">Total Categories<i class="mdi mdi-chart-line mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5">@ViewBag.CCount</h2>
+                    <h6 class="card-text">Increased by 60%</h6>
+                </div>
+            </div> 
+        </div>
+        <div class="col-md-4 stretch-card grid-margin">
+            <div class="card bg-gradient-info card-img-holder text-white">
+                <div class="card-body">
+                    <img src="~/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3">Total Product<i class="mdi mdi-bookmark-outline mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5">@ViewBag.PCount</h2>
+                    <h6 class="card-text">Decreased by 10%</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 stretch-card grid-margin">
+            <div class="card bg-gradient-success card-img-holder text-white">
+                <div class="card-body">
+                    <img src="~/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                    <h4 class="font-weight-normal mb-3">Total Users<i class="mdi mdi-diamond mdi-24px float-right"></i>
+                    </h4>
+                    <h2 class="mb-5">@ViewBag.UCount</h2>
+                    <h6 class="card-text">Increased by 5%</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 grid-margin">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Recent Product</h4>
+                    <div class="table-responsive">
+                        <table class="table" style="text-align:center">
+                            <thead>
+                                <tr>
+                                    <th> Posted By </th>
+                                    <th> Product </th>
+                                    <th> Category </th>
+                                    <th> Min Price </th>
+                                    <th> Date Start</th>
+                                    <th> Date End</th>
+                                    <th colspan="2"> Action </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var i in result)
+                                {
+                                    <tr>
+                                        <td>@i.UName</td>
+                                        <td>@i.PName</td>
+                                        <td>@i.CName</td>
+                                        <td>@i.MinimumPrice</td>
+                                        <td>@i.DateStart</td>
+                                        <td>@i.DateEnd</td>
+                                        <td><a href="/Admin/DetailsProduct?PId=@i.PId">Details</a></td>
+                                        <td><a href="/Admin/DeleteProduct?PId=@i.PId" onclick="Note()">Delete</a></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Recent Users</h4>
+                        <div class="table-responsive">
+                            <table class="table" style="text-align:center">
+                                <thead>
+                                    <tr style="text-align:center">
+                                        <th> User ID </th>
+                                        <th> User Name </th>
+                                        <th> Number Phone </th>
+                                        <th> Address </th>
+                                        <th colspan="2"> Action </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                   @{ 
+                                       string sCon = ConfigurationManager.ConnectionStrings["hihi"].ConnectionString;
+                                       string query = "Select * From Users";
+                                       SqlConnection conn = new SqlConnection(sCon);
+                                       conn.Open();
+                                       SqlCommand command = new SqlCommand(query, conn);
+                                       SqlDataReader reader = command.ExecuteReader();
+                                       while (reader.Read())
+                                       {
+                                           int UId = (int)reader[0];
+                                           <tr>
+                                                <td>@reader[0]</td>
+                                                <td>@reader[1]</td>
+                                                <td>@reader[3]</td>
+                                                <td>@reader[4]</td>
+                                                <td><a href="/Admin/DetailsUser?UId=@UId ">Details</a></td>
+                                                <td><a href="/Admin/DeleteUser?UId=@UId" onclick="Note()"> Delete</a></td>
+                                            </tr>
+                                       }
+                                       reader.Close();
+                                   }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>

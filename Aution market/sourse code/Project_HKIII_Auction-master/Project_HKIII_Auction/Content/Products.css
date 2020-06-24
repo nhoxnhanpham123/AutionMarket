@@ -1,0 +1,80 @@
+body {
+    background-image: url('../Image/image_home/hinh anh page home/WEBSITE-WOOD-BACKGROUND.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-inverse {
+    background-color: #000000;
+}
+
+.main-wrapper .menu-food {
+    margin-top: 54px;
+}
+
+    .main-wrapper .menu-food .title {
+        text-align: center;
+        font-size: 30px;
+        color: #FFFFFF;
+        margin-bottom: 18px;
+    }
+
+    .main-wrapper .menu-food .line {
+        margin: auto;
+        display: block;
+        width: 80px;
+        height: 3px;
+        background-color: #FF8A34;
+        margin-bottom: 36px;
+    }
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "montserrat";
+}
+
+.card {
+    background: #f1f1f1;
+}
+
+.top-section {
+    overflow: hidden;
+    background: #fff;
+}
+
+.price {
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    color: #6ab04c;
+    font-size: 24px;
+}
+
+.product-info {
+    padding: 24px;
+}
+
+.name {
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #333;
+}
+
+.dis {
+    font-size: 16px;
+    opacity: 0.7;
+}
+
+.btn {
+    display: block;
+    background: #6ab04c;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+    .btn:hover {
+        background: #F30;
+    }

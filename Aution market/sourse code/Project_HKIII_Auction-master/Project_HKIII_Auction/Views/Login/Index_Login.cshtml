@@ -1,0 +1,106 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index_Login</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('../../Image/image_login signin/b2.jpg');
+            background-repeat: no-repeat;
+            background-size: 1950px 950px;
+        }
+
+        .signup-form {
+            width: 300px;
+            padding: 20px;
+            text-align: center;
+            background: url('../../Image/image_login signin/bg.png');
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            overflow: hidden;
+        }
+
+            .signup-form h1 {
+                margin-top: 100px;
+                font-family: 'Permanent Marker', cursive;
+                color: #fff;
+                font-size: 40px;
+            }
+
+            .signup-form input {
+                display: block;
+                width: 100%;
+                padding: 0 16px;
+                height: 44px;
+                text-align: center;
+                box-sizing: border-box;
+                outline: none;
+                border: none;
+                font-family: "montserrat",sans-serif;
+            }
+
+        .txtb {
+            margin: 20px 0;
+            background: rgba(255,255,255,.5);
+            border-radius: 6px;
+        }
+
+        .signup-btn {
+            margin-top: 60px;
+            margin-bottom: 20px;
+            background: #487eb0;
+            color: #fff;
+            border-radius: 44px;
+            cursor: pointer;
+            transition: 0.8s;
+        }
+
+            .signup-btn:hover {
+                transform: scale(0.96);
+            }
+
+        .signup-form a {
+            text-decoration: none;
+            color: #fff;
+            font-family: "montserrat",sans-serif;
+            font-size: 14px;
+            padding: 10px;
+            transition: 0.8s;
+            display: block;
+        }
+
+            .signup-form a:hover {
+                background: rgba(0,0,0,.3);
+            }
+    </style>
+    
+</head>
+<body>
+    <div class="signup-form">
+        <form name="FormLogin" id="login" action="~/Login/Check_Login" method="post">
+            <h1>Login</h1>
+            <input id="user" type="text" name="username" placeholder="Username" class="txtb" value="@ViewBag.UserName" >
+            <span style="color:red">@ViewBag.u</span>
+            <span style="color:red">@ViewBag.MsgU</span>
+            <input id="pass" type="password" name="password" placeholder="Password" class="txtb">
+            <span style="color:red">@ViewBag.p</span>
+            <span style="color:red">@ViewBag.MsgP</span>
+            <input type="submit" id="submit" name="btnSub" value="Login" class="signup-btn">
+            <div>
+                <span><a href="/SignIn/Index_SignIn">Sign In</a></span>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

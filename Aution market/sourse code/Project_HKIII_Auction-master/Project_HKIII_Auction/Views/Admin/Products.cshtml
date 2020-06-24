@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Project_HKIII_Auction.Models.Product>
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+@using (Html.BeginForm("SreachPro", "Admin", FormMethod.Post, new { @class = "form-inline" }))
+{
+    <label class="sr-only" for="inlineFormInputName2">User Name</label>
+    @Html.TextBox("txtSearch", null, new { @class = "form-control mb-2 mr-sm-2", @placeholder = "Product Name" })
+    <button type="submit" class="btn btn-gradient-primary mb-2">Search</button>
+}
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Recent Product</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th> Posted By </th>
+                                <th> Product Name </th>
+                                <th> Time remaining </th>
+                                <th> Minimun Price </th>
+                                <th> Maximun Price </th>
+                                <th> Status </th>
+                                <th> Incremenent </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var i in Model)
+                            {
+                                DateTime date1 = DateTime.Now;
+                                DateTime date2 = i.DateEnd;
+                                var t = date2 - date1;
+                                <tr>
+                                    <td>@i.User.UName</td>
+                                    <td>@i.PName</td>
+                                    @if (t.Seconds > 0) {
+                                    <td>@t.Days Days @t.Hours Hours @t.Minutes Minutes @t.Seconds Seconds</td>
+                                    }
+                                    else
+                                    {
+                                        <td>Over Time</td>
+                                    }
+                                    <td>@i.MinimumPrice</td>
+                                    <td>@i.MaximumPrice</td>
+                                    <td>@i.Status</td>
+                                    <td>@i.Incremenent</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

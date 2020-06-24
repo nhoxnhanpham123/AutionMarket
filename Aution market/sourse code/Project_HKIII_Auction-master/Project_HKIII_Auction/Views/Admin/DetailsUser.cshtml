@@ -1,0 +1,239 @@
+﻿@model Project_HKIII_Auction.Models.User
+@{
+    ViewBag.Title = "DetailsUser";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+
+<style>
+
+    /* Profile container */
+    .profile {
+        margin: 20px 0;
+    }
+
+    /* Profile sidebar */
+    .profile-sidebar {
+        padding: 20px 0 10px 0;
+        background: #F1F3FA;
+    }
+
+    .profile-userpic img {
+        float: none;
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+        -webkit-border-radius: 50% !important;
+        -moz-border-radius: 50% !important;
+        border-radius: 50% !important;
+        margin-left: 60px;
+    }
+
+    .profile-usertitle {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .profile-usertitle-name {
+        color: #5a7391;
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 7px;
+    }
+
+    .profile-usertitle-job {
+        text-transform: uppercase;
+        color: #5b9bd1;
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+    .profile-userbuttons {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+        .profile-userbuttons .btn {
+            text-transform: uppercase;
+            font-size: 11px;
+            font-weight: 600;
+            padding: 6px 15px;
+            margin-right: 5px;
+        }
+
+            .profile-userbuttons .btn:last-child {
+                margin-right: 0px;
+            }
+
+    .profile-usermenu {
+        margin-top: 30px;
+    }
+
+        .profile-usermenu ul li {
+            border-bottom: 1px solid #f0f4f7;
+            list-style-type: none;
+            display: block;
+        }
+
+            .profile-usermenu ul li:last-child {
+                border-bottom: none;
+            }
+
+            .profile-usermenu ul li a {
+                color: #93a3b5;
+                font-size: 14px;
+                font-weight: 400;
+            }
+
+                .profile-usermenu ul li a i {
+                    margin-right: 8px;
+                    font-size: 14px;
+                }
+
+                .profile-usermenu ul li a:hover {
+                    background-color: #fafcfd;
+                    color: #5b9bd1;
+                }
+
+            .profile-usermenu ul li.active {
+                border-bottom: none;
+            }
+
+                .profile-usermenu ul li.active a {
+                    color: #5b9bd1;
+                    background-color: #f6f9fb;
+                    border-left: 2px solid #5b9bd1;
+                    margin-left: -2px;
+                }
+
+    /* Profile Content */
+    .profile-content {
+        padding: 20px;
+        background: #F1F3FA;
+        min-height: 460px;
+    }
+
+    .col-sm-8 input {
+        width: 500px;
+        border-radius: 5px;
+        padding: 5px;
+        border: none;
+    }
+
+        .col-sm-8 input[type=submit] {
+            width: 110px;
+            padding: 5px;
+            margin-top: 20px;
+            background-color: limegreen;
+            border: none;
+        }
+
+            .col-sm-8 input[type=submit]:hover {
+                background-color: forestgreen;
+                cursor: pointer;
+            }
+</style>
+
+<div class="container">
+    <h1>User @Model.UName</h1>
+    <div class="row profile">
+        <div class="col-md-3">
+
+            <br />
+            <div class="profile-sidebar">
+                <!-- SIDEBAR USERPIC -->
+                <div class="profile-userpic">
+                    <img src="@Model.Image" class="img-responsive" alt="">
+                </div>
+                <!-- END SIDEBAR USERPIC -->
+                <!-- SIDEBAR USER TITLE -->
+                <div class="profile-usertitle">
+                    <b>
+                        <div class="profile-usertitle-name">
+                            @Model.UName
+                        </div>
+                    </b>
+                </div>
+                <!-- END SIDEBAR USER TITLE -->
+                <!-- SIDEBAR BUTTONS -->
+                <div class="profile-userbuttons">
+                    <button type="button" class="btn btn-success btn-sm">Follow</button>
+                    <button type="button" class="btn btn-danger btn-sm">Message</button>
+                </div>
+                <!-- END SIDEBAR BUTTONS -->
+                <!-- SIDEBAR MENU -->
+                <div class="profile-usermenu">
+                    <ul class="">
+                        <li class="">
+                            <a href="~/Test/Duy">
+                                <i class="glyphicon glyphicon-home"></i>
+                                Address: @Model.Address
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="glyphicon glyphicon-user"></i>
+                                Phone: @Model.Phone
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" onclick="hien()">
+                                <i class="glyphicon glyphicon-user"></i>
+                                Account Setting
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END MENU -->
+            </div>
+
+        </div>
+        <div class="col-md-9" id="hihi">
+            <div class="profile-content">
+                @using (Html.BeginForm("Profiles", "User", FormMethod.Post))
+                {
+                    Html.AntiForgeryToken();
+                    Html.ValidationSummary();
+                    <div class="row" style="margin-bottom:10px;">
+                        <div class="col-sm-4">
+                            @Html.LabelFor(e => e.UId)
+                        </div>
+                        <div class="col-sm-8">
+                            @Html.EditorFor(e => Model.UId)
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom:10px;">
+                        <div class="col-sm-4">
+                            @Html.LabelFor(e => e.UName)
+                        </div>
+                        <div class="col-sm-8">
+                            @Html.EditorFor(e => Model.UName)
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom:10px;">
+                        <div class="col-sm-4">
+                            @Html.LabelFor(e => e.Address)
+                        </div>
+                        <div class="col-sm-8">
+                            @Html.EditorFor(e => Model.Address)
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom:10px;">
+                        <div class="col-sm-4">
+                            @Html.LabelFor(e => e.Phone)
+                        </div>
+                        <div class="col-sm-8">
+                            @Html.EditorFor(e => Model.Phone)
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
+

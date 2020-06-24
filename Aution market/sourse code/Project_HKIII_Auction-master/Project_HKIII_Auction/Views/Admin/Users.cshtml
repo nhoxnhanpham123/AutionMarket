@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Project_HKIII_Auction.Models.User>
+
+@{
+    ViewBag.Title = "User";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+@using (Html.BeginForm("SreachUs", "Admin", FormMethod.Post, new {@class = "form-inline" }))
+{
+    <label class="sr-only" for="inlineFormInputName2">User Name</label>
+    @Html.TextBox("txtSearch", null, new { @class = "form-control mb-2 mr-sm-2", @placeholder = "UserName"})
+    <button type="submit" class="btn btn-gradient-primary mb-2">Search</button>
+}
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">User</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th> User ID </th>
+                                <th> User Name </th>
+                                <th> Number Phone </th>
+                                <th> Address </th>
+                                <th colspan="2" style="text-align:center"> Action </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var i in Model)
+                            {
+                                <tr>
+                                    <td>@i.UId</td>
+                                    <td>@i.UName</td>
+                                    <td>@i.Phone</td>
+                                    <td>@i.Address</td>
+                                    <td><a href="/Admin/DetailsUser?UId=@i.UId">Details</a></td>
+                                    <td><a href="/Admin/DeleteUser?UId=@i.UId">Delete</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

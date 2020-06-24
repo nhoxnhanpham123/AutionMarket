@@ -1,0 +1,136 @@
+﻿@model Project_HKIII_Auction.Models.Product
+
+@{
+    ViewBag.Title = "CreateProduct";
+    Layout = "~/Views/Shared/User_Layout.cshtml";
+}
+<style>
+    #Create input{
+        border-radius:5px;
+        box-sizing:border-box;
+    }
+    #Create input[type=submit]{
+        margin-left:90%;
+        width:100px;
+    }
+    #Create label{
+        text-align:left;
+    }
+    #Create input[type=file]{
+        margin-right:90%;
+    }
+    #Create select{
+        margin-right:90%;
+    }
+    #Create textarea{
+        margin-right:90%;
+    }
+</style>
+<center>
+<div id="Create" style="width:800px">
+@using (Html.BeginForm("CreateProduct", "User", FormMethod.Post , new {enctype= "multipart/form-data"  }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group row">
+            <div class="col-sm-4">
+                @Html.LabelFor(model => model.PName, htmlAttributes: new { @class = "control-label col-md-9" })
+            </div>
+            <div class="col-md-8">
+                @Html.EditorFor(model => model.PName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-sm-4">
+                @Html.LabelFor(model => model.DateStart, htmlAttributes: new { @class = "control-label col-md-9" })
+            </div>
+            <div class="col-md-8">
+                @Html.EditorFor(model => model.DateStart, new { htmlAttributes = new { @class = "form-control", @Value = ViewBag.Start,  @Readonly = "Readonly" } })
+                @Html.ValidationMessageFor(model => model.DateStart, "", new { @class = "text-danger" })
+            </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    @Html.LabelFor(model => model.DateEnd, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.DateEnd, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.DateEnd, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                @Html.LabelFor(model => model.MinimumPrice, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.MinimumPrice, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.MinimumPrice, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    @Html.LabelFor(model => model.MaximumPrice, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.MaximumPrice, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.MaximumPrice, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4"> 
+                    @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.TextAreaFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", rows = 3, cols = 30 } })
+                    @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    @Html.LabelFor(model => model.Image, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    <input type="file" name="ImageFile" required/>
+                    @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    @Html.LabelFor(model => model.CId, htmlAttributes: new { @class = "control-label col-md-9" })
+                </div>
+                <div class="col-md-8">
+                    @Html.DropDownListFor(model => model.CId,(IEnumerable<SelectListItem>)ViewBag.Cate, "..Select.." ,new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.CId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+}
+</div>
+</center>

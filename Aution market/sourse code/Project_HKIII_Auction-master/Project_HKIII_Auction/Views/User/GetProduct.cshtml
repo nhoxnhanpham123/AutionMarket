@@ -1,0 +1,109 @@
+﻿@model Project_HKIII_Auction.Models.Product
+@{
+    ViewBag.Title = "GetProduct";
+    Layout = "~/Views/Shared/User_Layout.cshtml";
+}
+@{ 
+    DateTime date1 = DateTime.Now;
+    DateTime date2 = Model.DateEnd;
+    var date = date2 - date1;
+    string msg;
+    int dis = 0;
+}
+<script>
+    function startTick(second, minute, hour, day) {
+        var strTime = day + " Days " + hour + " : " + minute + " : " + second;
+        document.getElementById('time').innerText = strTime;
+        var _tick = setInterval(function () {
+            second = second - 1;
+
+            var strTime = day + " Days " + hour + " : " + minute + " : " + second;
+            document.getElementById('time').innerText = strTime;
+
+            if (second == 0) {
+                second = 60;
+                minute = minute - 1;
+            }
+            if (minute == 0) {
+                minute = 59;
+                hour = hour - 1;
+            }
+            if (hour == 0) {
+                if (day > 0) {
+                    hour = 23;
+                    day = day - 1;
+                }
+            }
+        }, 1000);
+    }
+</script>
+<link rel="stylesheet" href="~/Content/ThongtinSP.css" />
+<div class="container" style="margin-left:15%">
+    <!-- Left Column / Headphones Image -->
+    <div style="margin-right:10%; margin-top:5%">
+        <img src="@Model.Image" alt="" width="450px" height="400px">
+    </div>
+
+
+    <!-- Right Column -->
+    <div class="right-column">
+
+        <!-- Product Description -->
+        <div class="product-description">
+            <span>Product Name</span>
+            <h1>@Model.PName</h1>
+            <p>Description: @Model.Description</p>
+        </div>
+
+        <!-- Product Configuration -->
+        <div class="product-configuration">
+
+            <!-- Product Color -->
+            <div class="product-color">
+                <span>Price</span>
+
+                <div class="color-choose">
+                    <div>
+                        <label>Start Price: @Model.MinimumPrice</label>
+
+                    </div>
+                    </br>
+                    <div>
+                        <label>Highest Price: @Model.MaximumPrice</label>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Cable Configuration -->
+            <div class="cable-config">
+                <span>Time remaining until you can join</span>
+
+                <div class="cable-choose">
+                    @if (date.Seconds < 0)
+                    {
+                        msg = "Over Time";
+                        <span>@msg</span>
+                    }
+                    else
+                    {
+                        dis++;
+                        <span id="time">
+                            <script>
+                                startTick(@date.Seconds, @date.Minutes, @date.Hours, @date.Days)
+                            </script>
+                        </span>
+
+                    }
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Product Pricing -->
+        <div class="product-price">
+            <span>Current Price: @Model.Incremenent$</span>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,63 @@
+﻿
+    @{
+        ViewBag.Title = "test";
+        Layout = "~/Views/Shared/User_Layout.cshtml";
+    }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AboutUs</title>
+    <link rel="stylesheet" href="~/Content/aboutUs.css">
+    <link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <div class="testimonial-section">
+        <div class="inner-width">
+            <h1> Our Team</h1>
+            <div class="testimonial-pics">
+                <img src="~/Image/image_AboutUs/35720423_455584864891053_428675858270519296_n.jpg" alt="test-1" class="active">
+                <img src="~/Image/image_AboutUs/59733550_2352428015041449_2767359029243019264_n.jpg" alt="test-2">
+                <img src="~/Image/image_AboutUs//65675776_2265448200435486_9171231954220089344_n.jpg" alt="test-3">
+                <img src="~/Image/image_AboutUs//53869282_996296183911420_7459694856927969280_n.jpg" alt="test-4">
+            </div>
+
+            <div class="testimonial-contents" style="color:#000">
+                <div class="testimonial active" id="test-1">
+                    <p>Phạm Hữu Nhân / Developer</p>
+                </div>
+
+                <div class="testimonial" id="test-2">
+                    <p>Nguyễn Hoàng Bảo / Developer</p>
+                </div>
+
+                <div class="testimonial" id="test-3">
+                    <p>Đỗ Khánh Duy / Developer</p>
+                </div>
+
+                <div class="testimonial" id="test-4">
+                    <p>Nguyễn Ngọc Minh Châu / Developer</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $('.testimonial-pics img').click(function () {
+            $(".testimonial-pics img").removeClass("active");
+            $(this).addClass("active");
+
+            $(".testimonial").removeClass("active");
+            $("#" + $(this).attr("alt")).addClass("active");
+        });
+    </script>
+
+
+</body>
+</html>

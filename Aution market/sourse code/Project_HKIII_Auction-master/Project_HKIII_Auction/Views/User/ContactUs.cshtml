@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "test";
+    Layout = "~/Views/Shared/User_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ContactUs</title>
+    <link rel="stylesheet" href="~/Content/ContactUs.css">
+</head>
+<body>
+    <div class="contact-section">
+
+        <h1>Contact Us</h1>
+        <div class="border"></div>
+        <form class="contact-form" action="index.html" method="post">
+            <input type="text" class="contact-form-text" placeholder="Your name">
+            <input type="email" class="contact-form-text" placeholder="Your email">
+            <input type="text" class="contact-form-text" placeholder="Your phone">
+            <textarea class="contact-form-text" placeholder="Your message"></textarea>
+            <input type="submit" class="contact-form-btn" value="Send">
+        </form>
+    </div>
+</body>
+</html>

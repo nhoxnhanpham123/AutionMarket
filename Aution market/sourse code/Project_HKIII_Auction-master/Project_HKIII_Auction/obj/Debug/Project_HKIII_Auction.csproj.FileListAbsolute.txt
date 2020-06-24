@@ -1,0 +1,408 @@
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.pdb
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.AppContext.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Collections.Immutable.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Console.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Compression.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.AccessControl.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Claims.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.ValueTuple.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.Web.Infrastructure.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\WebGrease.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.pdb
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csprojAssemblyReference.cache
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CopyComplete
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.AppContext.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Collections.Immutable.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Console.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Compression.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.AccessControl.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Claims.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.ValueTuple.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.Web.Infrastructure.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\WebGrease.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csprojAssemblyReference.cache
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CoreCompileInputs.cache
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CopyComplete
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.pdb
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll.config
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.pdb
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe.config
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.rsp
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe.config
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.rsp
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.AppContext.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Collections.Immutable.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Console.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Compression.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.AccessControl.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Claims.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Principal.Windows.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.ValueTuple.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe.config
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.rsp
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe.config
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.Web.Infrastructure.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\WebGrease.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.pdb
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CoreCompileInputs.cache
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CopyComplete
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.pdb
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.AspNet.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.Core.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.AspNet.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.Core.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.AspNet.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.Core.dll
+D:\hoc tap IT\project\kì ba\project ki 3\Project_HKIII_Auction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csprojAssemblyReference.cache
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.pdb
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.AppContext.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Collections.Immutable.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Console.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Compression.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.AccessControl.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Claims.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.ValueTuple.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.rsp
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe.config
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.AspNet.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.Core.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.Web.Infrastructure.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\WebGrease.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.pdb
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csprojAssemblyReference.cache
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CopyComplete
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.dll
+D:\Sem3\Project_HKIII_OnlineAuction\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Project_HKIII_Auction.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csc.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\csi.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.AppContext.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Collections.Immutable.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Console.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Compression.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.IO.Pipes.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.AccessControl.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Claims.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.ValueTuple.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\vbc.rsp
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\roslyn\VBCSCompiler.exe.config
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.AspNet.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Glimpse.Core.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.Web.Infrastructure.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\WebGrease.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\EntityFramework.SqlServer.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Helpers.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Mvc.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Optimization.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.Razor.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Deployment.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\System.Web.WebPages.Razor.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Newtonsoft.Json.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Antlr3.Runtime.pdb
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csprojAssemblyReference.cache
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CoreCompileInputs.cache
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.csproj.CopyComplete
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.dll
+D:\Project 3\Project_HKIII_Auction\Project_HKIII_Auction\obj\Debug\Project_HKIII_Auction.pdb
